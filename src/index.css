@@ -168,7 +168,7 @@ p {
 }
 
 .top-section {
-  background-color: blue;
+  background-color: hsl(215, 50%, 34%);
   padding-bottom: 150px;
 }
 .bottom-section {

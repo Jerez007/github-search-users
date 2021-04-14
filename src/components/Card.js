@@ -65,7 +65,7 @@ const Wrapper = styled.article`
 
   p {
     text-align: center;
-    color: gray;
+    color: hsl(0, 0%, 93%);
   }
 
   .links {
@@ -108,13 +108,13 @@ const Wrapper = styled.article`
 
     a {
       margin-left: 10px;
-      color: gray;
+      color: hsl(0, 0%, 93%);
     }
   }
 
   h3 {
     text-transform: lowercase;
-    color: lightgray;
+    color: hsl(0, 0%, 85%);
   }
 
   h3:hover {
